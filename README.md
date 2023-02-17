@@ -2,7 +2,7 @@
 
 A Movie Streaming App built with Flutter as part of open source and community contribution in teaching and learning of flutter in FlutterGrammers WhatsApp Group
 
-<img src="https://github.com/ket-c/flutter_movies/blob/main/assets/images/Screenshot%202023-02-16%20at%207.24.03%20PM.png"  width="60%" height="30%">
+<img src="https://github.com/ket-c/flutter_movies/blob/main/assets/images/Screenshot%202023-02-16%20at%207.24.03%20PM.png" >
 
 ## Getting Started
 
