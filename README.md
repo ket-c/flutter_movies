@@ -1,6 +1,6 @@
 # flutter movies
 
-A Movie Streaming App built with Flutter as communicty contribution in teaching and learning of flutter in FlutterGrammers WhatsApp Group
+A Movie Streaming App built with Flutter as part of open source and community contribution in teaching and learning of flutter in FlutterGrammers WhatsApp Group
 
 ## Getting Started
 
