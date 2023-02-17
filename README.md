@@ -1,10 +1,8 @@
-# fluttergrammersmovie
+# flutter movies by FlutterGrammers
 
-A new Flutter project.
+A Movie Streaming App buid with Flutter
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +12,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#installation
+
+clone this repo ```git clone https://github.com/ket-c/flutter_movies.git``` or download zip and extract folder
+
+cd to the downloaded folder (```cd flutter_movies```) and run the commands below
+
+```flutter pub get```
+
+```flutter run```
