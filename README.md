@@ -13,7 +13,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-#installation
+# Installation
 
 clone this repo ```git clone https://github.com/ket-c/flutter_movies.git``` or download zip and extract folder
 
